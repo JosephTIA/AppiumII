@@ -1,0 +1,7 @@
+# Allure
+android-automation/allure-results
+android-automation/allure-report
+
+# Node
+android-automation/node_modules
+*.apk
